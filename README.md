@@ -3,7 +3,7 @@
 ### Olá, me chamo Luiz Felipe👋 :
 ### Atualmente estou aprendendo Java. 
 
-- 🔭 Estou no momento estudando Curso Técnico Desenvolvimento de Sistemas
+- 🔭 Estou no momento estudando no Curso Técnico Desenvolvimento de Sistemas
 - 🌱 Atualmente aprendendo Java.
 
 - -----------------------------//-----------------------------

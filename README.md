@@ -1,21 +1,11 @@
-### Welcome to my Github profile. 😄
+Luiz Felipe Andrade
+────────────────────────
 
-### Olá, me chamo Luiz Felipe👋 :
-### Atualmente estou aprendendo Java. 
+Desenvolvedor de Software em formação
 
-- 🔭 Estou no momento estudando no Curso Técnico Desenvolvimento de Sistemas
-- 🌱 Atualmente aprendendo Java.
-
-- -----------------------------//-----------------------------
-
-### Hello, my name is Luiz Felipe 👋 :                 
-### Currently I am learning Java.          
-
-- 🔭 I’m currently studying on Technical Course in Systems Development 📚 💻
-- 🌱 I’m currently learning Java
-
-- 📫 How to reach me - Linkeding Profile: https://www.linkedin.com/in/lfandrade/ <a href="https://https://www.linkedin.com/in/lfandrade/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
--  E-mail: luizfelipeandradedev@gmail.com 📧
-
+🎓 UFF
+💻 FAETEC
+🛠️ Java | Spring Boot | React | TypeScript
+🚀 Projetos
+📚 Atualmente estudando
+🔗 Contato
